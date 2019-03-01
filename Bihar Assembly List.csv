@@ -1,0 +1,244 @@
+AC No.,AC Name,Type,District
+1,Valmiki Nagar,GEN,Pashchim Champaran
+2,Ramnagar (SC),SC,Pashchim Champaran
+3,Narkatiaganj,GEN,Pashchim Champaran
+4,Bagaha,GEN,Pashchim Champaran
+5,Lauriya,GEN,Pashchim Champaran
+6,Nautan,GEN,Pashchim Champaran
+7,Chanpatia,GEN,Pashchim Champaran
+8,Bettiah,GEN,Pashchim Champaran
+9,Sikta,GEN,Pashchim Champaran
+10,Raxaul,GEN,Purba Champaran
+11,Sugauli,GEN,Purba Champaran
+12,Narkatia,GEN,Purba Champaran
+13,Harsidhi (SC),SC,Purba Champaran
+14,Govindganj,GEN,Purba Champaran
+15,Kesaria,GEN,Purba Champaran
+16,Kalyanpur,GEN,Purba Champaran
+17,Pipra,GEN,Purba Champaran
+18,Madhuban,GEN,Purba Champaran
+19,Motihari,GEN,Purba Champaran
+20,Chiraia,GEN,Purba Champaran
+21,Dhaka,GEN,Purba Champaran
+22,Sheohar,GEN,Sheohar
+23,Riga,GEN,Sitamarhi
+24,Bathnaha (SC),SC,Sitamarhi
+25,Parihar,GEN,Sitamarhi
+26,Sursand,GEN,Sitamarhi
+27,Bajpatti,GEN,Sitamarhi
+28,Sitamarhi,GEN,Sitamarhi
+29,Runnisaidpur,GEN,Sitamarhi
+30,Belsand,GEN,Sitamarhi
+31,Harlakhi,GEN,Madhubani
+32,Benipatti,GEN,Madhubani
+33,Khajauli,GEN,Madhubani
+34,Babubarhi,GEN,Madhubani
+35,Bisfi,GEN,Madhubani
+36,Madhubani,GEN,Madhubani
+37,Rajnagar (SC),SC,Madhubani
+38,Jhanjharpur,GEN,Madhubani
+39,Phulparas,GEN,Madhubani
+40,Laukaha,GEN,Madhubani
+41,Nirmali,GEN,Supaul
+42,Pipra,GEN,Supaul
+43,Supaul,GEN,Supaul
+44,Triveniganj (SC),SC,Supaul
+45,Chhatapur,GEN,Supaul
+46,Narpatganj,GEN,Araria
+47,Raniganj (SC),SC,Araria
+48,Forbesganj,GEN,Araria
+49,Araria,GEN,Araria
+50,Jokihat,GEN,Araria
+51,Sikti,GEN,Araria
+52,Bahadurganj,GEN,Kishanganj
+53,Thakurganj,GEN,Kishanganj
+54,Kishanganj,GEN,Kishanganj
+55,Kochadhaman,GEN,Kishanganj
+56,Amour,GEN,Purnia
+57,Baisi,GEN,Purnia
+58,Kasba,GEN,Purnia
+59,Banmankhi (SC),SC,Purnia
+60,Rupauli,GEN,Purnia
+61,Dhamdaha,GEN,Purnia
+62,Purnia,GEN,Purnia
+63,Katihar,GEN,Katihar
+64,Kadwa,GEN,Katihar
+65,Balrampur,GEN,Katihar
+66,Pranpur,GEN,Katihar
+67,Manihari (ST),ST,Katihar
+68,Barari,GEN,Katihar
+69,Korha (SC),SC,Katihar
+70,Alamnagar,GEN,Madhepura
+71,Bihariganj,GEN,Madhepura
+72,Singheshwar (SC),SC,Madhepura
+73,Madhepura,GEN,Madhepura
+74,Sonbarsha (SC),SC,Saharsa
+75,Saharsa,GEN,Saharsa
+76,Simri Bakhtiarpur,GEN,Saharsa
+77,Mahishi,GEN,Saharsa
+78,Kusheshwar Asthan (SC),SC,Darbhanga
+79,Gaura Bauram,GEN,Darbhanga
+80,Benipur,GEN,Darbhanga
+81,Alinagar,GEN,Darbhanga
+82,Darbhanga Rural,GEN,Darbhanga
+83,Darbhanga,GEN,Darbhanga
+84,Hayaghat,GEN,Darbhanga
+85,Bahadurpur,GEN,Darbhanga
+86,Keoti,GEN,Darbhanga
+87,Jale,GEN,Darbhanga
+88,Gaighat,GEN,Muzaffarpur
+89,Aurai,GEN,Muzaffarpur
+90,Minapur,GEN,Muzaffarpur
+91,Bochaha (SC),SC,Muzaffarpur
+92,Sakra (SC),SC,Muzaffarpur
+93,Kurhani,GEN,Muzaffarpur
+94,Muzaffarpur,GEN,Muzaffarpur
+95,Kanti,GEN,Muzaffarpur
+96,Baruraj,GEN,Muzaffarpur
+97,Paroo,GEN,Muzaffarpur
+98,Sahebganj,GEN,Muzaffarpur
+99,Baikunthpur,GEN,Gopalganj
+100,Barauli,GEN,Gopalganj
+101,Gopalganj,GEN,Gopalganj
+102,Kuchaikote,GEN,Gopalganj
+103,Bhorey (SC),SC,Gopalganj
+104,Hathua,GEN,Gopalganj
+105,Siwan,GEN,Siwan
+106,Ziradei,GEN,Siwan
+107,Darauli (SC),SC,Siwan
+108,Raghunathpur,GEN,Siwan
+109,Daraundha,GEN,Siwan
+110,Barharia,GEN,Siwan
+111,Goriakothi,GEN,Siwan
+112,Maharajganj,GEN,Siwan
+113,Ekma,GEN,Saran
+114,Manjhi,GEN,Saran
+115,Baniapur,GEN,Saran
+116,Taraiya,GEN,Saran
+117,Marhaura,GEN,Saran
+118,Chapra,GEN,Saran
+119,Garkha (SC),SC,Saran
+120,Amnour,GEN,Saran
+121,Parsa,GEN,Saran
+122,Sonepur,GEN,Saran
+123,Hajipur,GEN,Vaishali
+124,Lalganj,GEN,Vaishali
+125,Vaishali,GEN,Vaishali
+126,Mahua,GEN,Vaishali
+127,Raja Pakar (SC),SC,Vaishali
+128,Raghopur,GEN,Vaishali
+129,Mahnar,GEN,Vaishali
+130,Patepur (SC),SC,Vaishali
+131,Kalyanpur (SC),SC,Samastipur
+132,Warisnagar,GEN,Samastipur
+133,Samastipur,GEN,Samastipur
+134,Ujiarpur,GEN,Samastipur
+135,Morwa,GEN,Samastipur
+136,Sarairanjan,GEN,Samastipur
+137,Mohiuddinnagar,GEN,Samastipur
+138,Bibhutipur,GEN,Samastipur
+139,Rosera (SC),SC,Samastipur
+140,Hasanpur,GEN,Samastipur
+141,Cheria Bariarpur,GEN,Begusarai
+142,Bachhwara,GEN,Begusarai
+143,Teghra,GEN,Begusarai
+144,Matihani,GEN,Begusarai
+145,Sahebpur Kamal,GEN,Begusarai
+146,Begusarai,GEN,Begusarai
+147,Bakhri (SC),SC,Begusarai
+148,Alauli (SC),SC,Khagaria
+149,Khagaria,GEN,Khagaria
+150,Beldaur,GEN,Khagaria
+151,Parbatta,GEN,Khagaria
+152,Bihpur,GEN,Bhagalpur
+153,Gopalpur,GEN,Bhagalpur
+154,Pirpainti (SC),SC,Bhagalpur
+155,Kahalgaon,GEN,Bhagalpur
+156,Bhagalpur,GEN,Bhagalpur
+157,Sultanganj,GEN,Bhagalpur
+158,Nathnagar,GEN,Bhagalpur
+159,Amarpur,GEN,Banka
+160,Dhauraiya (SC),SC,Banka
+161,Banka,GEN,Banka
+162,Katoria (ST),ST,Banka
+163,Belhar,GEN,Banka
+164,Tarapur,GEN,Munger
+165,Munger,GEN,Munger
+166,Jamalpur,GEN,Munger
+167,Suryagarha,GEN,Lakhisarai
+168,Lakhisarai,GEN,Lakhisarai
+169,Sheikhpura,GEN,Sheikhpura
+170,Barbigha,GEN,Sheikhpura
+171,Asthawan,GEN,Nalanda
+172,Biharsharif,GEN,Nalanda
+173,Rajgir (SC),SC,Nalanda
+174,Islampur,GEN,Nalanda
+175,Hilsa,GEN,Nalanda
+176,Nalanda,GEN,Nalanda
+177,Harnaut,GEN,Nalanda
+178,Mokama,GEN,Patna
+179,Barh,GEN,Patna
+180,Bakhtiarpur,GEN,Patna
+181,Digha,GEN,Patna
+182,Bankipur,GEN,Patna
+183,Kumhrar,GEN,Patna
+184,Patna Sahib,GEN,Patna
+185,Fatuha,GEN,Patna
+186,Danapur,GEN,Patna
+187,Maner,GEN,Patna
+188,Phulwari (SC),SC,Patna
+189,Masaurhi (SC),SC,Patna
+190,Paliganj,GEN,Patna
+191,Bikram,GEN,Patna
+192,Sandesh,GEN,Bhojpur
+193,Barhara,GEN,Bhojpur
+194,Arrah,GEN,Bhojpur
+195,Agiaon (SC),SC,Bhojpur
+196,Tarari,GEN,Bhojpur
+197,Jagdishpur,GEN,Bhojpur
+198,Shahpur,GEN,Bhojpur
+199,Brahampur,GEN,Buxar
+200,Buxar,GEN,Buxar
+201,Dumraon,GEN,Buxar
+202,Rajpur (SC),SC,Buxar
+203,Ramgarh,GEN,Kaimur (Bhabua)
+204,Mohania (SC),SC,Kaimur (Bhabua)
+205,Bhabua,GEN,Kaimur (Bhabua)
+206,Chainpur,GEN,Kaimur (Bhabua)
+207,Chenari (SC),SC,Rohtas
+208,Sasaram,GEN,Rohtas
+209,Kargahar,GEN,Rohtas
+210,Dinara,GEN,Rohtas
+211,Nokha,GEN,Rohtas
+212,Dehri,GEN,Rohtas
+213,Karakat,GEN,Rohtas
+214,Arwal,GEN,Arwal
+215,Kurtha,GEN,Arwal
+216,Jahanabad,GEN,Jehanabad
+217,Ghosi,GEN,Jehanabad
+218,Makhadumapur (SC),SC,Jehanabad
+219,Goh,GEN,Aurangabad
+220,Obra,GEN,Aurangabad
+221,Nabinagar,GEN,Aurangabad
+222,Kutumba (SC),SC,Aurangabad
+223,Aurangabad,GEN,Aurangabad
+224,Rafiganj,GEN,Aurangabad
+225,Gurua,GEN,Gaya
+226,Sherghati,GEN,Gaya
+227,Imamganj (SC),SC,Gaya
+228,Barachatti (SC),SC,Gaya
+229,Bodh Gaya (SC),SC,Gaya
+230,Gaya Town,GEN,Gaya
+231,Tikari,GEN,Gaya
+232,Belaganj,GEN,Gaya
+233,Atri,GEN,Gaya
+234,Wazirganj,GEN,Gaya
+235,Rajauli (SC),SC,Nawada
+236,Hisua,GEN,Nawada
+237,Nawada,GEN,Nawada
+238,Gobindpur,GEN,Nawada
+239,Warsaliganj,GEN,Nawada
+240,Sikandra (SC),SC,Jamui
+241,Jamui,GEN,Jamui
+242,Jhajha,GEN,Jamui
+243,Chakai,GEN,Jamui
